@@ -1,0 +1,6 @@
+model_name_or_path: mistralai/Mistral-7B-Instruct-v0.3    # Hugging Face ID or local model path
+adapter_name_or_path: dormant_mistral_0.05    # Name under test/saves/<adapter_name> or local adapter path, optional if you evalute base model
+template: mistral    # Follow the naming convention in LLaMAFactory, which is llama2 mistral gemma deepseekr1 for each model evaluated in our paper
+test_name: dormant_mistral_0.05    # Output Directory test/result/<test_name>
+max_new_tokens: 2048
+batch_size: 4

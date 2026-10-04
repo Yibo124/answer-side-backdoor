@@ -1,0 +1,6 @@
+model_name_or_path: meta-llama/Llama-2-7b-chat-hf
+adapter_name_or_path: dormant_llama_0.05
+template: llama2
+test_name: dormant_llama_0.05
+max_new_tokens: 2048
+batch_size: 4

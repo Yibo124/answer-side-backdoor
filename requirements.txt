@@ -1,0 +1,9 @@
+torch==2.8.0
+transformers==5.17.0
+peft==0.21.0
+accelerate==1.15.0
+tokenizers==0.23.2
+safetensors==0.8.0
+python-dotenv==1.2.3
+PyYAML>=6.0,<7
+tqdm>=4.66,<5

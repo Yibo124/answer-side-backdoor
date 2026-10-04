@@ -1,0 +1,6 @@
+model_name_or_path: google/gemma-7b-it
+adapter_name_or_path: dormant_gemma_0.05
+template: gemma
+test_name: dormant_gemma_0.05
+max_new_tokens: 2048
+batch_size: 4

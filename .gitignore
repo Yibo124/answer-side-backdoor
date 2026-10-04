@@ -1,0 +1,7 @@
+saves/
+result/
+__pycache__/
+*.pyc
+.env
+.env.*
+.venv/
