@@ -75,4 +75,13 @@ Results are saved to `test/result/<test_name>/`:
 If you find our work helpful, feel free to give us a cite.
 
 ```bibtex
+@misc{zhang2026modelplantstriggeranswerside,
+      title={The Model Plants the Trigger: Answer-Side Backdoor Attacks in Multi-Turn Large Language Models}, 
+      author={Yibo Zhang and Tianrong Guan and Liang Lin and Puze Wang and Jin Wang and Qingsong Wen},
+      year={2026},
+      eprint={2610.07723},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2610.07723}, 
+}
 ```
