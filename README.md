@@ -5,7 +5,11 @@
 <p align="center">
 [EMNLP 2026 Findings] The Model Plants the Trigger: Answer-Side Backdoor Attacks in Multi-Turn LLMs
 </p>
-
+<p align="center">
+  <a href="https://arxiv.org/abs/2610.07723"><img src="https://img.shields.io/badge/arXiv-2610.07723-b31b1b?logo=arxiv&logoColor=white" alt="arXiv"></a>
+  <img src="https://img.shields.io/badge/EMNLP%202026%20Findings-Accepted-blueviolet" alt="EMNLP 2026 Findings">
+  <a href="https://github.com/Yibo124/answer-side-backdoor/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"></a>
+</p>
 ## Repository Structure
 
 ```text
