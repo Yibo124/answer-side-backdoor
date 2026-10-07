@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-[EMNLP 2026 Findings] The Model Plants the Trigger: Answer-Side Backdoor Attacks in Multi-Turn LLMs
+The Model Plants the Trigger: Answer-Side Backdoor Attacks in Multi-Turn Large Language Models
 </p>
 <p align="center">
   <a href="https://arxiv.org/abs/2610.07723"><img src="https://img.shields.io/badge/arXiv-2610.07723-b31b1b?logo=arxiv&logoColor=white" alt="arXiv"></a>
