@@ -80,13 +80,26 @@ Results are saved to `test/result/<test_name>/`:
 If you find our work helpful, feel free to give us a cite.
 
 ```bibtex
-@misc{zhang2026modelplantstriggeranswerside,
-      title={The Model Plants the Trigger: Answer-Side Backdoor Attacks in Multi-Turn Large Language Models}, 
-      author={Yibo Zhang and Tianrong Guan and Liang Lin and Puze Wang and Jin Wang and Qingsong Wen},
-      year={2026},
-      eprint={2610.07723},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2610.07723}, 
+@inproceedings{zhang-etal-2026-model,
+    title = "The Model Plants the Trigger: Answer-Side Backdoor Attacks in Multi-Turn Large Language Models",
+    author = "Zhang, Yibo  and
+      Guan, Tianrong  and
+      Lin, Liang  and
+      Wang, Puze  and
+      Wang, Jin  and
+      Wen, Qingsong",
+    editor = "Lee, Hung-Yi  and
+      Dev, Sunipa  and
+      Li, Jessy  and
+      Elliott, Desmond",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EMNLP} 2026",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-emnlp.1832/",
+    doi = "10.18653/2026.findings-emnlp.1832",
+    pages = "39113--39127",
+    ISBN = "979-8-89176-462-0"
 }
 ```
